@@ -159,5 +159,5 @@ SELECT
 FROM
     employee
 ORDER BY
-    EMP_NAME
+    EMP_NAME ASC
 LIMIT 10;
